@@ -34,6 +34,8 @@ This contract contains a fully on-chain migrated Generativemasks script and rela
 */
 
 // SPDX-License-Identifier: MIT
+// Disclaimer: This is a license for the contract code, not for the scripts stored in ORIGINAL_SCRIPT.
+// The license for ORIGINAL_SCRIPT is the one specified in SCRIPT_LICENSE.
 
 pragma solidity =0.8.6;
 
