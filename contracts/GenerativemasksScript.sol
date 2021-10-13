@@ -53,7 +53,7 @@ contract GenerativemasksScript {
 
     string public constant LIBRARY_VERSION = "1.3.1";
 
-    uint256 private constant METADATA_INDEX = 3799;
+    uint256 public constant METADATA_INDEX = 3799;
 
     function getMaskNumberWithTokenId(uint256 tokenId) external pure returns (uint256) {
         return (tokenId + METADATA_INDEX) % 10000;
