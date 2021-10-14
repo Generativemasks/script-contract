@@ -45,7 +45,7 @@ contract GenerativemasksScript {
 
     string public constant NAME = "Generativemasks";
 
-    string public constant CREATOR = "takawo";
+    string public constant CREATOR = "takawo shunsuke";
 
     string public constant DESCRIPTION = "The inspiration for this work came from discovering a sense of life in geometric patterns that are symmetrically arranged. With unexpected shapes and patterns, I tried to express the scary yet somehow charming atmosphere of Native American totem poles and indigenous Japanese Yokai.";
 
