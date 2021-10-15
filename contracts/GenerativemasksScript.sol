@@ -14,11 +14,11 @@ This contract contains a fully on-chain migrated Generativemasks script and rela
 - Original contract is deployed at Aug-08-2021
 - Project launched at Aug-17-2021
 
-## About artist and team
+## About creator and team
 
-### Artist
+### Creator
 
-* Name: takawo
+* Name: takawo shunsuke
 * OpenProcessing: https://openprocessing.org/user/6533
 * Twitter: https://twitter.com/takawo
 
