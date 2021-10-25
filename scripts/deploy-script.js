@@ -14,12 +14,12 @@ async function main() {
   // await hre.run('compile');
 
   // We get the contract to deploy
-  const Greeter = await hre.ethers.getContractFactory("Greeter");
-  const greeter = await Greeter.deploy("Hello, Hardhat!");
+  const GMScript = await hre.ethers.getContractFactory("GenerativemasksScript");
+  const gmscript = await GMScript.deploy();
 
-  await greeter.deployed();
+  await gmscript.deployed();
 
-  console.log("Greeter deployed to:", greeter.address);
+  console.log("GenerativemasksScript deployed to:", gmscript.address);
 }
 
 // We recommend this pattern to be able to use async/await everywhere
